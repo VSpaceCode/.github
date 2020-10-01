@@ -36,8 +36,7 @@ Steps to reproduce the behavior. Something like:
 ## Settings
 
 <!--
-Press `Ctrl+Shift+p` and run the action "Preferences: Open Settings (JSON)",
-or press `SPC f e D`  if key bindings work for you.
+Press `Ctrl+Shift+p` and run the action "Preferences: Open Settings (JSON)".
 -->
 
 ```
@@ -47,8 +46,7 @@ Copy paste the content of your settings.json file here.
 ## System information
 
 <!--
-- Press `Ctrl+Shift+p` and run the action "Help: Report Performance Issue", or
-  press `SPC h I` if key bindings work for you.
-- Click "show" in "Include my system information" and "Include my enabled extensions"
+- Press `Ctrl+Shift+p` and run the action "Help: Report Performance Issue".
+- Click "show" in "Include my system information" and "Include my enabled extensions".
 - Take a screenshot and copy paste it here.
 -->
