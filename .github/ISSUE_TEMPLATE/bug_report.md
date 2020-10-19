@@ -31,17 +31,41 @@ Steps to reproduce the behavior. Something like:
 
 ## Additional context
 
-<!-- Add any other context about the problem here. -->
+<!-- 
+Add any other context about the problem here.
+e.g. Check the developer console for any unexpected errors. Paste the console output if you are unsure.
+-->
+
+## Keybindings
+
+<!--
+Press `Ctrl+Shift+p` and run the action "Preferences: Open Keyboard Shortcuts (JSON)".
+-->
+
+<details><summary>Click to toggle contents of `keybindinds.json`</summary>
+<p>
+  
+```jsonc
+// Copy paste the content of your keybindings.json file here.
+```
+
+</p>
+</details>
 
 ## Settings
 
 <!--
 Press `Ctrl+Shift+p` and run the action "Preferences: Open Settings (JSON)".
 -->
+<details><summary>Click to toggle contents of `settings.json`</summary>
+<p>
 
+```jsonc
+// Copy paste the content of your settings.json file here.
 ```
-Copy paste the content of your settings.json file here.
-```
+
+</p>
+</details>
 
 ## System information
 
