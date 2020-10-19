@@ -34,6 +34,7 @@ Steps to reproduce the behavior. Something like:
 <!-- 
 Add any other context about the problem here.
 e.g. Check the developer console for any unexpected errors. Paste the console output if you are unsure.
+The developer console can be found via Help > Toggle Developer Tools
 -->
 
 ## Keybindings
