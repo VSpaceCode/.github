@@ -43,7 +43,7 @@ The developer console can be found via Help > Toggle Developer Tools
 Press `Ctrl+Shift+p` and run the action "Preferences: Open Keyboard Shortcuts (JSON)".
 -->
 
-<details><summary>Click to toggle contents of `keybindinds.json`</summary>
+<details><summary>Click to toggle contents of `keybindings.json`</summary>
 <p>
   
 ```jsonc
